@@ -1,0 +1,27 @@
+{
+  "name": "paint-web-app",
+  "version": "1.0.0",
+  "description": "A drawing application similar to MS Paint.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "jest"
+  },
+  "keywords": [
+    "drawing",
+    "canvas",
+    "paint",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^2.0.0",
+    "jest": "^27.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "prettier": "^2.0.0"
+  }
+}
